@@ -1,0 +1,103 @@
+*{
+    font-family: DejaVu Sans Mono, monospace;
+}
+
+body{
+    margin: 0;
+}
+
+#navbar{
+    background-color: darkslateblue;
+    display: flex;
+}
+
+.navItem{
+    float: left;
+    padding: 10px;
+}
+
+.navItem:first-child{
+    margin-left: 50px;
+}
+
+.navItem a{
+    color: white;
+}
+
+#content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#contentTitle{
+    display: flex;
+    justify-content: center;
+    font-size: 128px;
+    font-weight: bold;
+    color: lightgray;
+    text-align: center;
+}
+
+#form {
+    display: flex;
+    justify-content: center;
+}
+
+#form *{
+    font-size: 20px;
+}
+
+#form > form{
+    display: flex;
+    flex-direction: column;
+}
+
+#form > form > label{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+#form > form > label:first-child{
+    margin-top: 20px;
+}
+
+#form select,
+#checkbox,
+#radio{
+    width: 239px;
+}
+
+#checkbox *{
+    height: 23px;
+    width: 23px;
+    margin-left: 0;
+}
+
+#radio input{
+    margin-left: 0;
+}
+
+#navbar-red{
+    background-color: firebrick;
+    display: flex;
+}
+
+#admin-navbar{
+    background-color: gold;
+    display: flex;
+}
+
+.admin-navItem{
+    float: left;
+    padding: 10px;
+}
+
+.admin-navItem:first-child{
+    margin-left: 50px;
+}
+
+.admin-navItem a{
+    color: black;
+}
