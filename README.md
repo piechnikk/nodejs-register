@@ -6,9 +6,9 @@ This is a simple Node.js register app built using JavaScript, Node.js and Expres
   <summary>Table of Contents</summary>
   <ul>
     <li><a href="#live-demo">Live Demo</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#setup">Setup</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#build-with">Build With</a></li>
+    <li><a href="#technologies">Technologies</a></li>
   </ul>
 </details>
 
