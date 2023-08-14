@@ -16,7 +16,7 @@ This is a simple Node.js register app built using JavaScript, Node.js and Expres
 
 Explore the [live demo](http://nodejs-register.piechnik.ct8.pl/) of the nodejs-register website.
 
-## Getting Started
+## Setup
 
 To get a copy of this project up and running on your local machine, follow these steps:
 
@@ -69,10 +69,10 @@ Open your preferred web browser and navigate to `http://localhost:3000` to acces
   
     ![show](https://github.com/piechnikk/nodejs-register/assets/51060535/f3043690-0fb7-497d-be49-a67242efece6)
 
-## Build With
+## Technologies
 
 <div>
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JavaScript"> 
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"> 
     <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
 </div>
